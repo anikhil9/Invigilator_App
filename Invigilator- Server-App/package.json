@@ -1,0 +1,26 @@
+{
+  "name": "invigilator--server-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arraylist": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "case": "^1.6.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "lower-case": "^2.0.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.3",
+    "nodemon": "^2.0.2",
+    "open": "^7.0.2",
+    "random-number": "0.0.9",
+    "string": "^3.3.3"
+  }
+}
